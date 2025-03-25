@@ -3,7 +3,7 @@
 
 
 <h1 align="center">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hola+There+👋;I'm+Atul;An+AIML+enthusiast+%F0%9F%A4%93;Loves+to+solve+Problems+%E2%9C%A8">   
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hola+There+👋;I'm+Atul;An+AIML+enthusiast+%F0%9F%A4%93;Loves+to+solve+Problems+%E2%9C%A8;Contributing+to+Open+Source+✊️+💪">   
 </h1> 
 
   
