@@ -7,21 +7,21 @@
 </h1> 
 
   
-Hey👋, I'm Atul Maurya, a passionate BTech student majoring in Computer Science with a specialization in Artificial Intelligence and Machine Learning. With an insatiable curiosity and a knack for problem-solving, I dive deep into the realms of technology, exploring its nuances and pushing boundaries.
+Hey👋, I'm Atul Maurya, a passionate BTech student majoring in Computer Science and specializing in Artificial Intelligence and Machine Learning. With an insatiable curiosity and a knack for problem-solving, I dive deep into the realms of technology, exploring its nuances and pushing boundaries.
 <br>
 
 <p>
 <a href="https://atul-maurya.vercel.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Blog" /></a>
 <a href="https://discordapp.com/users/atsuk00"><img src="https://img.shields.io/badge/Discord-353535?style=for-the-badge&logo=discord&logoColor=white" alt="Twitter" /></a>
 <a href="https://www.linkedin.com/in/maurya-atul/"><img src="https://img.shields.io/badge/LinkedIn-656565?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:workspace.atumaurya18.04@outlook.com" target="_blank">
+  <a href="mailto:workspace.atumaurya18.04@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 - ⚙️ I use daily: `.nextjs`, `.reactjs`, `.nodejs`, `.js`, `.html`, `.scss`, `.svg`, `nodejs/express`, `.jwt`, `git/github`, `vscode`, `vim`, `zsh`
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **reactjs**, **nextjs**, **development**, **design thinking**, **anything**
-- 📫 Reach me: [atulmaurya18.04@outlook.com](mailto://atulmaurya18.04@outlook.com)
+- 📫 Reach me: [atulmaurya18.04@gmail.com](mailto://atulmaurya18.04@gmail.com)
 
 - ⚡️ Fun fact: I love music, currently listening to [F-1 Trillion-Post Malone](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx?si=vMhaUp3nTgOxFfJqcWIxHg)
 
