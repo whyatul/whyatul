@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-- ⚙️ I use daily: `.nextjs`, `.reactjs`, `.nodejs`, `.js`, `.html`, `.scss`, `.svg`, `nodejs/express`, `.jwt`, `git/github`, `vscode`, `vim`, `zsh`
+- ⚙️ I use daily: `RUST`,`.js`, `nodejs/express`, `.jwt`, `git/github`, `vscode`, `AWS`
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **reactjs**, **nextjs**,**blockchain**, **development**, **design thinking**, **anything**
 - 📫 Reach me: [atulmaurya18.04@gmail.com](mailto://atulmaurya18.04@gmail.com)
