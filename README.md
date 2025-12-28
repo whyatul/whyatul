@@ -6,8 +6,5 @@
   <img src="https://github.com/user-attachments/assets/5dbda5a1-e7a2-42a6-9450-d30729a81f04">
 </p>
 
-<a href="https://github.com/atulm18014"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-
 
 
